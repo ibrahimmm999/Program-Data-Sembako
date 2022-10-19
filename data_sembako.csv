@@ -1,0 +1,11 @@
+Kode_brg;Nama_brg;satuan;harga_satuan;stock_awal;Transaksi;Stock_Akhir
+K001;Beras;Kg;12000;3000;105;2895
+K002;Tepung Terigu;Kg;12000;4500;52;4448
+K003;Tepung Gandum;Kg;13500;4000;3610;390
+K004;Tepung Tapioka;Kg;13000;3500;115;3385
+K005;Gula Pasir;Kg;13500;500;26;474
+K006;Sagu;Kg;18000;200;85;115
+K007;Minyak Goreng;Ltr;23000;500;455;45
+K008;Margarin;Kg;30000;100;30;70
+K009;Susu;Kaleng;13000;150;20;130
+K010;Teh;Box;11000;50;45;5
